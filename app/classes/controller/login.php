@@ -3,16 +3,11 @@
 class Controller_Login extends Controller
 {
     
-//    public function before()
-//    {
-//        parent::before();
-//
-//        if (Auth::check()) {
-//        } else {
-//            // 未ログイン時はログインページへリダイレクト
-//            Response::redirect('login/index');
-//        }
-//    }
+    public function before()
+    {
+        parent::before();
+        Config::load('constant', true);
+    }
     
     /**
      * ログイン
@@ -125,6 +120,13 @@ class Controller_Login extends Controller
     public function action_get_dummypage()
     {
         SSSUtil::check_login();
+        
+        $ms = Config::get('constant.image.max_size');
+        
+        //セッションからユーザーIDの取得
+//        $session = Session::get('username');
+//        var_dump($session); exit();
+        
         $view = View::forge('login/dummypage');
         
         return $view;

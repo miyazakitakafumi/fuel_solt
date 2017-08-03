@@ -3,7 +3,7 @@
 class SSSUtil {
     
     /**
-     * ログインしているかのチェック
+     * ログインをチェックし、未ログインの場合リダイレクト
      */
     public static function check_login(){
         
