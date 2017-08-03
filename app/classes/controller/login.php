@@ -2,6 +2,18 @@
 
 class Controller_Login extends Controller
 {
+    
+//    public function before()
+//    {
+//        parent::before();
+//
+//        if (Auth::check()) {
+//        } else {
+//            // 未ログイン時はログインページへリダイレクト
+//            Response::redirect('login/index');
+//        }
+//    }
+    
     /**
      * ログイン
      */
@@ -90,23 +102,32 @@ class Controller_Login extends Controller
      */
     public function action_get_userinfo()
     {
+        SSSUtil::check_login();
         
         // Authのインスタンス化
         $auth = Auth::instance();
         
         $mes = 'ログイン中';
-        $data['user_id'] = $auth->get_user_id();
         $data['user_group'] = $auth->get('group');
         $data['created_at'] = date('Y-m-d', $auth->get('created_at')); //時間変換
         $data['del_flag'] =$auth->get('del_flag');
         
-        print_r($mes);
-        print_r($data['user_id']);
-        print_r($data['user_group']);
-        print_r($data['created_at']);
-        print_r($data['del_flag']);
+        $view = View::forge('login/userinfo');
+        $view->set('userinfo', $data);
         
-        exit();
+        return $view;
+    }
+    
+    
+    /**
+     * ダミーページ
+     */
+    public function action_get_dummypage()
+    {
+        SSSUtil::check_login();
+        $view = View::forge('login/dummypage');
+        
+        return $view;
     }
     
     /**

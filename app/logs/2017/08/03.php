@@ -300,3 +300,349 @@ INFO - 2017-08-03 10:36:33 --> Fuel\Core\Request::execute - Setting main Request
 INFO - 2017-08-03 10:36:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/add_user"
 INFO - 2017-08-03 10:36:43 --> Fuel\Core\Request::execute - Called
 INFO - 2017-08-03 10:36:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:15:04 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:15:04 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:15:04 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:15:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:15:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:15:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:15:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:15:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:15:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:15:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 11:15:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:15:22 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 11:15:22 --> Notice - Array to string conversion in /var/www/fuel/app/views/login/userinfo.php on line 8
+INFO - 2017-08-03 11:15:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 11:15:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:15:58 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:16:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 11:16:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:16:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:16:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 11:16:36 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:16:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:18:37 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 11:18:37 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:18:37 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:18:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/logout"
+INFO - 2017-08-03 11:18:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:18:39 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:18:46 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 11:18:46 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:18:46 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:21:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/dummypage"
+INFO - 2017-08-03 11:21:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:21:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:21:29 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
+INFO - 2017-08-03 11:21:29 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:21:29 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:21:43 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 11:21:43 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:21:43 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:15 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:16 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:17 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:21 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:22 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:23 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:25 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:33 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:34 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:22:35 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:05 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:07 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:08 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:09 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:23:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:23:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:23:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:24:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 11:24:11 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:24:11 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 11:29:00 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 11:29:00 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:29:00 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 11:29:00 --> Error - Class 'SSS_Util' not found in /var/www/fuel/app/classes/controller/login.php on line 126
+INFO - 2017-08-03 11:29:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 11:29:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:29:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 11:29:39 --> Error - Class 'SSS_Util' not found in /var/www/fuel/app/classes/controller/login.php on line 126
+INFO - 2017-08-03 11:30:03 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 11:30:03 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 11:30:03 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 11:30:03 --> Error - Class 'SSS_Util' not found in /var/www/fuel/app/classes/controller/login.php on line 126
+INFO - 2017-08-03 12:21:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 12:21:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:21:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 12:21:39 --> Error - Class 'SSS_Util' not found in /var/www/fuel/app/classes/controller/login.php on line 126
+INFO - 2017-08-03 12:25:39 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 12:25:39 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:25:39 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 12:25:39 --> Error - Class 'sss_util' not found in /var/www/fuel/app/classes/controller/login.php on line 126
+INFO - 2017-08-03 12:28:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 12:28:19 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:28:19 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2017-08-03 12:28:19 --> Error - Class 'SSS_Util' not found in /var/www/fuel/app/classes/controller/login.php on line 126
+INFO - 2017-08-03 12:29:31 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_dummypage"
+INFO - 2017-08-03 12:29:31 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:29:31 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:29:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 12:29:32 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:29:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 12:30:20 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:20 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 12:30:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:49 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 12:30:49 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:49 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:52 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 12:30:53 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:53 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:54 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/index"
+INFO - 2017-08-03 12:30:54 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:54 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:55 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/get_userinfo"
+INFO - 2017-08-03 12:30:55 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:55 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2017-08-03 12:30:58 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "login/logout"
+INFO - 2017-08-03 12:30:58 --> Fuel\Core\Request::execute - Called
+INFO - 2017-08-03 12:30:58 --> Fuel\Core\Request::execute - Setting main Request
