@@ -1,6 +1,6 @@
 <?php
 
-class Controller_Login extends Controller
+class Controller_Login extends Controller_Base
 {
     
     public function before()
@@ -54,7 +54,7 @@ class Controller_Login extends Controller
         //エラーメッセージをビューにセット
         $view->set('error', $error);
         
-        return $view;
+        $this->template->content = $view;
     }
     
     /**
