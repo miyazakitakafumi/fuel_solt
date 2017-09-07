@@ -13,5 +13,6 @@ return array(
         "MAX_SIZE" => 200,
         "MIN_SIZE" => 200,
     ),
+    'TTTT' => 'bababa',
     
 );

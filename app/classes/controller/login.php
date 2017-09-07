@@ -121,7 +121,10 @@ class Controller_Login extends Controller_Base
     {
         SSSUtil::check_login();
         
-        $ms = Config::get('constant.image.max_size');
+        //定数呼び出しテスト
+        $ms = Config::get('constant.IMAGE');
+        
+        var_dump($ms);
         
         //セッションからユーザーIDの取得
 //        $session = Session::get('username');
