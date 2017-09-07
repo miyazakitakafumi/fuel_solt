@@ -145,5 +145,7 @@ class Controller_Login extends Controller_Base
         $auth = Auth::instance();
         $auth->logout();
         
+        Response::redirect('login/get_userinfo');
+        
     }
 }
